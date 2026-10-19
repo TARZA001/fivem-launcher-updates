@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.8",
+    "version":  "1.0.9",
     "url":  "https://raw.githubusercontent.com/TARZA001/fivem-launcher-updates/main/FivemLauncher.exe",
-    "sha256":  "84ecd627d4b1168e9ef56bef42e465102cbed8abb276227dfdf1bbd2f4799e3f",
-    "notes":  "ระบบอัปเดต: ลองใหม่อัตโนมัติเมื่อเช็ค/โหลดไม่สำเร็จ, เช็คซ้ำทุก 1 ชั่วโมง, บันทึก update.log",
+    "sha256":  "6a9ffc935c4d6c402133dd457c2500068061a62e0c95387bfd3220cc5a8f085c",
+    "notes":  "ลดการใช้ CPU: guard สแกนเร็วขึ้น, หยุดแอนิเมชันที่วนไม่หยุด, ลด RAM ตอนย่อหน้าต่าง, โลโก้ใหม่",
     "mandatory":  false
 }
