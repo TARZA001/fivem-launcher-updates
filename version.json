@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.10",
+    "version":  "1.0.11",
     "url":  "https://raw.githubusercontent.com/TARZA001/fivem-launcher-updates/main/FivemLauncher.exe",
-    "sha256":  "366a7782bb93b6940d4cceccfd478ccb1d0cc043cf0901006a5de52c479d13a9",
-    "notes":  "หน้าโหลด, หน้าเข้าสู่ระบบพร้อมเงื่อนไขการให้บริการ, หน้าเลือกบัญชี Discord ใหม่, ปุ่มออกจากระบบ",
+    "sha256":  "67dafd2a58212094369e220257c413e44667c1a2db38e0fcf763f4abdea82baa",
+    "notes":  "วิดีโอพื้นหลัง (ไม่มีเสียง) หน้าหลักและหน้าเข้าสู่ระบบ",
     "mandatory":  false
 }
