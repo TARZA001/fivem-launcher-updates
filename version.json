@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.3",
+    "version":  "1.0.4",
     "url":  "https://raw.githubusercontent.com/TARZA001/fivem-launcher-updates/main/FivemLauncher.exe",
-    "sha256":  "7c4a05e206f7eb69dcb61530045cc100ceb1c1e6d5a3d5a36eca431f97b15677",
-    "notes":  "อัปเดตอัตโนมัติ: ดาวน์โหลดเวอร์ชันใหม่เบื้องหลัง แล้วเปลี่ยนเมื่อเปิดโปรแกรมครั้งถัดไป",
+    "sha256":  "a1d8ac81d9e49fe66dc8b5afc82d8689ea5b254ed020fa7ef3d1bb57b781df88",
+    "notes":  "ปิดโปรแกรมด้วยปุ่ม ✕ มุมขวาบน (เอาปุ่ม Exit ออก) และปิดได้ระหว่างเล่น โดยจะปิดเกมด้วย",
     "mandatory":  false
 }
