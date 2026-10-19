@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.2",
+    "version":  "1.0.3",
     "url":  "https://raw.githubusercontent.com/TARZA001/fivem-launcher-updates/main/FivemLauncher.exe",
-    "sha256":  "3ef552f92b805c7d8f4b90f05372c500d16ce687035b26c9a2536213b765e69a",
-    "notes":  "แก้ไขระบบกันโปรแกรมโกงแจ้งเตือนผิด: Media Player และแอปจาก Microsoft Store ไม่โดนบล็อกแล้ว",
+    "sha256":  "7c4a05e206f7eb69dcb61530045cc100ceb1c1e6d5a3d5a36eca431f97b15677",
+    "notes":  "อัปเดตอัตโนมัติ: ดาวน์โหลดเวอร์ชันใหม่เบื้องหลัง แล้วเปลี่ยนเมื่อเปิดโปรแกรมครั้งถัดไป",
     "mandatory":  false
 }
