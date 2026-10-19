@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.7",
+    "version":  "1.0.8",
     "url":  "https://raw.githubusercontent.com/TARZA001/fivem-launcher-updates/main/FivemLauncher.exe",
-    "sha256":  "9fe602b08bd6b5cbdfa0092bd8ef5a360a443d741548ea309069ac727d66ba0e",
-    "notes":  "เปลี่ยนชื่อระบบกันโกงฝั่งเซิร์ฟเป็น teasr_guard",
+    "sha256":  "84ecd627d4b1168e9ef56bef42e465102cbed8abb276227dfdf1bbd2f4799e3f",
+    "notes":  "ระบบอัปเดต: ลองใหม่อัตโนมัติเมื่อเช็ค/โหลดไม่สำเร็จ, เช็คซ้ำทุก 1 ชั่วโมง, บันทึก update.log",
     "mandatory":  false
 }
