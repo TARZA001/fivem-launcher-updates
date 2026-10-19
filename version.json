@@ -1,0 +1,7 @@
+{
+    "version":  "1.0.1",
+    "url":  "https://raw.githubusercontent.com/TARZA001/fivem-launcher-updates/main/FivemLauncher.exe",
+    "sha256":  "68ab60abb5c701c79eb7c7fd1fa10c8f6fab83ff0f7efe629504f21170692a3c",
+    "notes":  "Test update: built-in self-updater",
+    "mandatory":  false
+}
