@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.11",
+    "version":  "1.0.12",
     "url":  "https://raw.githubusercontent.com/TARZA001/fivem-launcher-updates/main/FivemLauncher.exe",
-    "sha256":  "67dafd2a58212094369e220257c413e44667c1a2db38e0fcf763f4abdea82baa",
-    "notes":  "วิดีโอพื้นหลัง (ไม่มีเสียง) หน้าหลักและหน้าเข้าสู่ระบบ",
+    "sha256":  "f6b4ac3fa8ae786cc62161d03a8fd4dec9cc442bdcd595f4e9e2ba6fcad020fd",
+    "notes":  "แก้ FiveM ขึ้น error \u0027launched directly from the shell\u0027 ตอนกดเข้าเกม",
     "mandatory":  false
 }
